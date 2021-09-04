@@ -3,12 +3,12 @@
 Clone project social network.
 
 # Language Project
-*Typescript
-*Python
+* Typescript
+* Python
 
 # Databse
-*PostgreSQL
-*Mongoose
+* PostgreSQL
+* Mongoose
 
 # Attention
 * You have installed the latest version Node
