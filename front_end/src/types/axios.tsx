@@ -5,9 +5,9 @@ export interface IError{
 }
   
 export interface IApiResponse<T>{
-errors: IError[];
-success: boolean;
-data: T | null;
+    errors: IError[];
+    success: boolean;
+    data: T | null;
 }
   
 export type IHeaderRequest = HeadersInit | Record<string, any>;
